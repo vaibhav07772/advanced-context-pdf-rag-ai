@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔥 Advanced Context AI + PDF RAG System
 
 An intelligent AI system that combines **PDF-based knowledge retrieval (RAG)**, **memory**, and **LLM (Ollama - Llama3)** to answer user questions using uploaded documents.
@@ -119,4 +118,3 @@ Deployment on cloud (AWS / Render)
 =======
 # advanced-context-pdf-rag-ai
 An AI-powered PDF Question Answering system using RAG, FAISS, SentenceTransformers, and Llama3 (Ollama) with memory and tool integration.
->>>>>>> 7f9584372c042ffb57e61dea30675f5e51ce31d5
